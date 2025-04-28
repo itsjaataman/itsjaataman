@@ -15,7 +15,7 @@
 
 ### Skills
 - CHATGPT 
-- Worpress
+- WordPress 
 - Web Development 
 
 ---
